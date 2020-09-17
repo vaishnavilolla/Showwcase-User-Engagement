@@ -1,2 +1,5 @@
 # Showwcase-User-Engagement
-Understand the User Engagement of an Online Platform
+
+Understand the User Engagement and suggest insights for Showwcase (Online Platform).
+
+Please refer the code attached for the details and insights.
